@@ -1,0 +1,5 @@
+{
+  "name": "IPTV Playlist Manager",
+  "description": "A comprehensive dashboard to manage IPTV channels and categories, generating a JSON playlist file.",
+  "requestFramePermissions": []
+}
